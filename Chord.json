@@ -7,12 +7,12 @@
 	"id": "com.sap.sample.chordRich",
 	"newInstancePrefix": "Chord_Diagram",
 	"version": "1.0.0",
-	"icon": "https://ocreyes.github.io/amCharts/Chord/chord_icon.png",
+	"icon": "",
 	"webcomponents": [
 		{
 			"kind": "main",
 			"tag": "com-demo-chord",
-            "url": "https://ocreyes.github.io/amCharts/Chord/chord.js",
+            "url": "https://github.com/ricchard117/sac/blob/master/Chord.json",
             "integrity": "",
             "ignoreIntegrity" : true
 		}
