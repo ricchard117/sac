@@ -1,0 +1,26 @@
+{
+	"name": "Chord Diagram",
+	"description": "Chord diagram Custom Widget",
+	"eula": "",
+	"vendor": "OREYES",
+	"license": "",
+	"id": "com.sap.sample.chordRich",
+	"newInstancePrefix": "Chord_Diagram",
+	"version": "1.0.0",
+	"icon": "https://ocreyes.github.io/amCharts/Chord/chord_icon.png",
+	"webcomponents": [
+		{
+			"kind": "main",
+			"tag": "com-demo-chord",
+            "url": "https://ocreyes.github.io/amCharts/Chord/chord.js",
+            "integrity": "",
+            "ignoreIntegrity" : true
+		}
+    ],
+	"properties": {
+	},
+	"methods": {
+	},
+	"events": {
+	}
+}
