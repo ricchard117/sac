@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-chord",
-            "url": "https://github.com/ricchard117/sac/blob/master/Chord.json",
+            "url": "https://github.com/ricchard117/sac/blob/master/chord.js",
             "integrity": "",
             "ignoreIntegrity" : true
 		}
